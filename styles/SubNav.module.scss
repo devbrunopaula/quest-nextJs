@@ -1,0 +1,7 @@
+@import 'colors';
+
+.subNav {
+  height: 75px;
+  background: $subNav-background;
+  border-bottom: 1px solid $subNav-bottomBorder;
+}
